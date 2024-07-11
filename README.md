@@ -4,6 +4,7 @@ The code for Guided Stochastic Gradient Descent algorithm written and tested wit
 Read Me for CNN-GSGD
 
 Paper: A Strategic Weight Refinement Maneuver for Convolutional Neural Networks, IJCNN 2021 - [Read paper](https://ieeexplore.ieee.org/document/9533359)
+
 Programmer: Patrick Sharma
 Supervisor: Dr. Anuraganand Sharma
 
